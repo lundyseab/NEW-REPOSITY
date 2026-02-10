@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Hello, " + name + "!");
         System.out.println("Goodbye, World!");
 
+        System.out.println("Update code from nit.");
+        
         new code
     }
 }
